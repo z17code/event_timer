@@ -1,7 +1,32 @@
-# 事件计时器 (Event Timer)
+# 事件计时器
 
-一个功能丰富的桌面计时工具，支持多事件并发计时、标签管理、模板执行、历史记录筛选、系统托盘、自定义通知间隔、两种暂停模式等。适合需要精确记录各类任务耗时的场景。
+[🇬🇧 English](README.md) | [🇨🇳 中文](README.zh.md)
 
+一个功能丰富的桌面计时工具，支持多事件并发计时、标签管理、模板执行等。
+
+---
+
+## ✨ 功能预览
+
+### 主窗口
+<p align="center">
+  <img src="screenshots/main_window.png" alt="主窗口" width="90%">
+</p>
+
+### 简易窗口（关闭主窗口时自动弹出）
+<p align="center">
+  <img src="screenshots/simple_window.png" alt="简易窗口" width="70%">
+</p>
+
+### 日历日期选择
+<p align="center">
+  <img src="screenshots/calendar.png" alt="日历选择" width="50%">
+</p>
+
+### 设置
+<p align="center">
+  <img src="screenshots/settings.png" alt="设置" width="50%">
+</p>
 ---
 
 ## 📌 功能特性
