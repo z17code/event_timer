@@ -82,7 +82,7 @@
 
 bash
 
-git clone https://github.com/EathanAAA/event-timer.git
+git clone https://github.com/z17code/event-timer.git
 cd event-timer
 
 ### 3. 安装依赖
