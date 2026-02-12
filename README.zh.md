@@ -1,6 +1,6 @@
 # 事件计时器
 
-[🇬🇧 English](README.md) | [🇨🇳 中文](README.zh.md)
+[🇬🇧 English](README.md)
 
 一个功能丰富的桌面计时工具，支持多事件并发计时、标签管理、模板执行等。
 
