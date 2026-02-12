@@ -1,6 +1,6 @@
 # Event Timer
 
-[🇨🇳 中文](readme.zh.md/) 
+[🇨🇳 中文](README.zh.md/) 
 
 A feature-rich desktop timing tool that supports concurrent timing of multiple events, tag management, template execution, history filtering, system tray, customizable notification intervals, and two pause modes. Ideal for scenarios requiring precise recording of task durations.
 
