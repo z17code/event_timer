@@ -59,7 +59,7 @@ A feature-rich desktop timing tool that supports concurrent timing of multiple e
 
 bash
 
-git clone https://github.com/EathanAAA/event-timer.git
+git clone https://github.com/z17code/event-timer.git
 cd event-timer
 
 ### 3. Install dependencies
