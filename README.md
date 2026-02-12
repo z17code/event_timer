@@ -57,7 +57,7 @@
 
 bash
 
-git clone https://github.com/你的用户名/event-timer.git
+git clone https://github.com/EathanAAA/event-timer.git
 cd event-timer
 
 ### 3. 安装依赖
